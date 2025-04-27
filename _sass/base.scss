@@ -1,7 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
 body {
   background-color: #11111b;
   font-family: sans-serif;
   margin: auto;
   max-width: 70ch;
   color: #b4befe;
+  padding-top: 60px;
+
+
+  // https://stackoverflow.com/questions/55364127/making-a-dotted-grid-with-css
+  background-image: radial-gradient(#181825 2px, transparent 0);
+  background-size: 40px 40px;
+}
+
+h1 {
+    color: #fab387;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 40px;
+    margin-top: 30px;
+    text-decoration: #fab387 underline;
+}
+
+em {
+    font-family: "JetBrains Mono", monospace;
 }
