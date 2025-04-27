@@ -1,4 +1,6 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# hex-theme
+*hex-theme* is a cozy Jekyll theme, inspired by the terminal.
